@@ -8,3 +8,6 @@ test
 https://github.com/Prime2270/homework_netology-8.1-git-v2/commit/db0a81efb1ac3a8236b362294db5a2d207d5ebe4
 
 3job https://github.com/Prime2270/homework_netology-8.1-git-v2/commits/main
+
+2job v2
+https://github.com/Prime2270/homework_netology-8.1-git-v2/commit/22a2bc54ef02e50c16bb042b41793def2afca4d8
