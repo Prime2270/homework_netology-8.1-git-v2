@@ -1,4 +1,4 @@
 #ignore all .рус
-.рус
+*.рус
 #ignore cache /home/prime/.cache
 /home/prime/.cache
